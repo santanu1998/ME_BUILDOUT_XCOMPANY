@@ -15,7 +15,7 @@ During the course of this Micro-Experience, the developer:
 
 ![Screenshot 2023-04-04 164248](https://user-images.githubusercontent.com/69622683/229775305-dc0a98e3-1bcd-4c8c-af06-6fcaa775938d.png)
 
-Commands Implemented for XCompany Application
+                                              Commands Implemented for XCompany Application
 
 ## Build XCompany Application completely from scratch
 
